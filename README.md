@@ -1,3 +1,3 @@
 # CalculatorWebService
 
-My own web services
+My own web service
